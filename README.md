@@ -6,6 +6,6 @@ This is all of the C++ source code and features the Parent classes for the Pawns
 
 You can find the Itch.io page and the demo video with the links below.
 
-Itchi.io Page: https://ejaypo.itch.io/toon-tanks
+Itch.io Page: https://ejaypo.itch.io/toon-tanks
 
 Youtube Demo here: https://youtu.be/uRSbL30SGZs
